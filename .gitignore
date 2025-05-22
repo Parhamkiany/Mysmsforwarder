@@ -1,0 +1,8 @@
+# فایل‌های ساخته شده‌ی اندروید
+.gradle/
+build/
+local.properties
+/.idea
+.DS_Store
+*.iml
+/captures/
